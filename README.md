@@ -16,7 +16,22 @@
 
 ## 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js)
+<p >
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=js,react,astro,tailwind,css,html,nextjs,ts" />
+</p>
+
+<p >
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,postman" />
+</p>
+
+<p>
+  <h3>Design & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=supabase,figma,ps,ai,notion" />
+</p>
+
+<!-- ![My Skills](https://skillicons.dev/icons?i=js,react,supabase,astro,tailwind,css,html,python,fastapi,figma,ps,ai,notion,postgresql,nextjs,ts,postman) -->
 
 ![snake](assets/snake.svg)
 
