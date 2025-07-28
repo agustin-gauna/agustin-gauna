@@ -1,18 +1,23 @@
-<h1 align="center">Hi there! I'm Agustín 👋👾</h1>
+# Hi there! I'm Agustín 👋👾
 
 
-⭐ Frontend developer based in Buenos Aires, Argentina
+<table>
+  <tr>
+    <td>
 
-💻 Building modern web apps with React & Astro
+⭐ Frontend developer based in Buenos Aires, Argentina  
+💻 Building modern web apps with React & Astro  
+📚 Currently learning backend with Python & FastAPI  
+🔒 Mostly working on private repos (shhh 🤫)  
+🕹️ Gamer in free time, loves Warcraft 3  
+📦 Building reusable components and tools  
 
-📚 Currently learning backend with Python & FastAPI
-
-🔒 Mostly working on private repos (shhh 🤫)
-
-🕹️ Gamer in free time, loves Warcraft 3
-
-📦 Building reusable components and tools
-
+</td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiMHdlMDR0cG9mZnltNjRhdmh0cjFmdjN2bG5vY2ZhZXhhbjJ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack
 
@@ -31,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,supabase" />
 </p>
 
-<!-- ![My Skills](https://skillicons.dev/icons?i=js,react,supabase,astro,tailwind,css,html,python,fastapi,figma,ps,ai,notion,postgresql,nextjs,ts,postman) -->
+
 
 ![snake](assets/snake.svg)
 
