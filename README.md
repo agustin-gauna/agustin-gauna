@@ -18,7 +18,7 @@
 
 <p >
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,astro,tailwind,css,html,nextjs,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,astro,nextjs,tailwind,html,css" />
 </p>
 
 <p >
@@ -28,7 +28,7 @@
 
 <p>
   <h3>Design & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=supabase,figma,ps,ai,notion" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,supabase" />
 </p>
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=js,react,supabase,astro,tailwind,css,html,python,fastapi,figma,ps,ai,notion,postgresql,nextjs,ts,postman) -->
