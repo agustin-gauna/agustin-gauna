@@ -1,9 +1,6 @@
 # Hi there! I'm Agustín 👋👾
 
-
-<table>
-  <tr>
-    <td>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiMHdlMDR0cG9mZnltNjRhdmh0cjFmdjN2bG5vY2ZhZXhhbjJ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" width="300" />
 
 ⭐ Frontend developer based in Buenos Aires, Argentina  
 💻 Building modern web apps with React & Astro  
@@ -12,12 +9,15 @@
 🕹️ Gamer in free time, loves Warcraft 3  
 📦 Building reusable components and tools  
 
-</td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiMHdlMDR0cG9mZnltNjRhdmh0cjFmdjN2bG5vY2ZhZXhhbjJ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<br> </br>
+
+
+
+
+
+
+
+
 
 ## 💻 Tech Stack
 
