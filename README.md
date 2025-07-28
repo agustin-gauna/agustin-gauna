@@ -1,4 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Agustín 👋👾</h1>
+
+
+⭐ Frontend developer based in Buenos Aires, Argentina
+
+💻 Building modern web apps with React & Astro
+
+📚 Currently learning backend with Python & FastAPI
+
+🔒 Mostly working on private repos (shhh 🤫)
+
+🕹️ Gamer in free time, loves Warcraft 3
+
+📦 Building reusable components and tools
+
+
+## 💻 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js)
+
+![snake](assets/snake.svg)
 
 <!--
 **agustin-gauna/agustin-gauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
