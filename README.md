@@ -2,6 +2,8 @@
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiMHdlMDR0cG9mZnltNjRhdmh0cjFmdjN2bG5vY2ZhZXhhbjJ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" width="300" />
 
+<br></br>
+
 ⭐ Frontend developer based in Buenos Aires, Argentina  
 💻 Building modern web apps with React & Astro  
 📚 Currently learning backend with Python & FastAPI  
